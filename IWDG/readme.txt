@@ -1,14 +1,11 @@
-1、该例程为IWDG使用例程。
+1, the routine use of IWDG routine.
 
-2、使用说明
-   (1)工程文件路径：例程目录\IWDG\MDK-ARM\Project.uvproj。
-   (2)请使用MDK 4.0以上版本打开,MDK版本过低会导致无法识别工程。
-   (3)下载调试工具为ULINK。
-   (4)请将USB线插在板子CN3,并打开超级终端或串口调试助手,配置波特率115200,8位,一个停止位,无校验位。
-   (5)HEX文件下载到板子后,LED灯循环闪烁,当按下KeyA或KeyB后,使用超级终端或串口调试助手可以看到按键调试信息,表明例程运行正确。
+2, the use of
+   (1) project file path: routine directory \ IWDG \ MDK-ARM \ Project.uvproj.
+   (2) Please use the MDK 4.0 or later to open, MDK version is too low will lead to the identification project.
+   (3) Download debugging tools ULINK.
+   (4) Connect the USB cable plugged into the board CN3, and open HyperTerminal or serial debugging assistant, configure the baud rate 115200 bits, one stop bit, no parity.
+   (5) HEX file is downloaded to the board, LED lights flashing cycle, when pressed KeyA or KeyB, using HyperTerminal or serial debugging assistant can see the buttons debugging information indicates that routine run correctly.
  
-3、注意事项
-   请务必在下载、调试、运行过程中，保持板子上电、ULINK连接并插在电脑上。
-
-
-	   	
+3, note
+   Be sure to download, debugging, running, keeping on board power, ULINK connected and plugged into the computer.
